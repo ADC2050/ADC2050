@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 C#, python and full stack web (html,css,java-script)
 ----------------------------------------------------
 
-I love code!!
+I love to code and edit videos!!
 
 * 🌍  I'm based in Israel
 * ✉️  You can contact me at [2007segev@gmail.com](mailto:2007segev@gmail.com)
 * 🧠  I'm learning Bootstrap, C# and MySQL
-* ⚡  I love Chess!
+* ⚡  I love edit videos!
 
 ### Skills
 
